@@ -1,2 +1,3 @@
 # hello-world
-A repository
+A repository of some kind. Almost entirely empty.
+...............
